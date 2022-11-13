@@ -1,7 +1,3 @@
-# second-week-homework
+<h1>Noting<h1> 
 
-
-### ikinci haftanın ödevi: 
-  - bu hafta işlenen konuları içeren bir uygulama geliştirilecek
-  - bu uygulamada en azından bir iki tane üçüncü parti kütüphane kullanılacak
-  - Responsive tasarıma dikkat edilecek
+<img src= 'assets/ios1.png'> <img src= 'assets/ios2.png'>
